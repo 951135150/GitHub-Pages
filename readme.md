@@ -1,7 +1,7 @@
 # CHEN Yanshao | Data Science Graduate Student @ Lingnan University
 
-**Positioning**: Aspiring Data Scientist | [cite_start]Generative AI & Agentic RAG Developer [cite: 13, 69]
-**Tags**: Python | SQL | Gemini API | Agentic RAG | [cite_start]Power BI [cite: 13, 104]
+**Positioning**: Aspiring Data Scientist | Generative AI & Agentic RAG Developer
+**Tags**: Python | SQL | Gemini API | Agentic RAG | Power BI
 
 ---
 
@@ -23,25 +23,33 @@
 
 ## [cite_start]🚀 Projects (Portfolio) [cite: 22-30]
 
-### [cite_start][Project 1] T2P: Term 2 Project - Modular Mathematics Analytics System (Jan 2026 - July 2026) 
+### [Project 1] T2P: Term 2 Project - Modular Mathematics Analytics System (Jan 2026 - July 2026)
 * [cite_start]**Problem**: Scarcity of high-quality, logically rigorous calculus datasets and structured analytics for tracking higher mathematics mastery [cite: 90-92].
 * [cite_start]**Data**: Synthetic student performance logs and structured JSON datasets containing step-by-step mathematical solutions generated via **Gemini 2.5 Pro** [cite: 93-94].
 * **Approach**: 
     * [cite_start]Built a **multi-agent orchestration** flow in Python to automate educational data synthesis[cite: 93, 96].
     * [cite_start]Developed an **Agentic RAG** architecture and a **Quality Evaluation Module** to ensure pedagogical consistency[cite: 95].
-    * Integrated a visualization framework to map topic mastery across multiple learning levels.
-* **Outcome**: Created a reproducible AI pipeline and a functional **Learning Analytics Dashboard**. The system provides real-time feedback on 15+ topics, tracking mastery against a **target of 85%** and categorizing progression from Novice (L1) to Mastered (L3).
-* **Contribution**: **Sole Developer**. [cite_start]Designed the entire system architecture, from prompt engineering and LLM inference to the final data visualization dashboard[cite: 96].
+* [cite_start]**Outcome**: Created a reproducible AI pipeline and a functional **Learning Analytics Dashboard** that tracks 15+ topics against an **85% Mastery Target**[cite: 94].
+* **Contribution**: **Sole Developer**. [cite_start]Designed the entire system architecture, from prompt engineering to the final data visualization dashboard[cite: 96].
 
 ![T2P Learning Analytics Dashboard](dashboard_Student_Chen_FullRun.jpg)
-*Fig 1. T2P System Output: Radar chart of Knowledge Mastery vs. 85% Target and Topic Progression Status.*
+*Fig 1. T2P System Output: Radar chart of Knowledge Mastery and Topic Progression Status.*
 
 ### [cite_start][Project 2] E-commerce SQL vs. NoSQL Performance Study (Oct 2025 - Nov 2025) [cite: 97]
 * [cite_start]**Problem**: Identifying optimal database architectures for high-concurrency e-commerce scenarios to improve system latency [cite: 97-99].
-* [cite_start]**Data**: Simulated transaction data and user activity logs modeled via ER diagrams[cite: 100].
-* [cite_start]**Approach**: Executed benchmarking on **MySQL** and **MongoDB**, comparing CRUD performance, complex query handling, and transaction latency[cite: 100].
-* [cite_start]**Outcome**: Produced a comprehensive technical report providing data-driven recommendations for database selection based on quantitative performance metrics[cite: 101].
-* [cite_start]**Contribution**: Led the experimental design, executed performance stress tests, and visualized benchmarking results for technical stakeholders[cite: 101].
+* [cite_start]**Data**: Simulated transaction data covering user accounts, products, and inventory, modeled via comprehensive ER diagrams[cite: 100].
+* **Approach**: 
+    * Designed a **High-Availability System Architecture** featuring a Load Balancer, Cache Layer (Redis), and Master-Slave replication.
+    * Developed a detailed **Relational Data Model (ERD)** to manage complex e-commerce entities and transaction flows.
+    * [cite_start]Executed benchmarking on **MySQL** and **MongoDB** to compare CRUD performance and complex query handling[cite: 100].
+* [cite_start]**Outcome**: Produced a technical report providing data-driven recommendations for database selection based on quantitative performance metrics[cite: 101].
+* [cite_start]**Contribution**: Led the experimental design, executed performance stress tests, and created all technical system diagrams and ER models[cite: 101].
+
+<div style="display: flex; gap: 10px;">
+  <img src="FlowChart.jpg" alt="System Architecture" width="45%">
+  <img src="GAER (1).jpg" alt="ER Diagram" width="50%">
+</div>
+*Fig 2. E-commerce System Architecture and Entity-Relationship Diagram (ERD) designed for performance benchmarking.*
 
 ---
 
