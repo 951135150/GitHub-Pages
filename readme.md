@@ -1,7 +1,14 @@
-# CHEN Yanshao | Data Science Graduate Student @ Lingnan University
+# CHEN Yanshao | 陈沿劭
+### Aspiring Data Scientist & Data Analyst | Generative AI & Agentic RAG Developer
 
-**Positioning**: Aspiring Data Scientist | Generative AI & Agentic RAG Developer
-**Tags**: Python | SQL | Gemini API | Agentic RAG | Power BI
+---
+
+**Top Skills:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-FF6F61?style=for-the-badge) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-00897B?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ---
 
